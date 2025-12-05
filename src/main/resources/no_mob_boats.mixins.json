@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.finxd.no_mob_boats.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "no_mob_boats.refmap.json",
+  "mixins": [
+    "BoatMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
